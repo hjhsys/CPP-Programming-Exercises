@@ -1,0 +1,3 @@
+﻿  FifteenPuzzle.cpp
+C:\Users\WIN10\source\repos\FifteenPuzzle\FifteenPuzzle.cpp(24,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FifteenPuzzle.vcxproj -> C:\Users\WIN10\source\repos\FifteenPuzzle\x64\Debug\FifteenPuzzle.exe
