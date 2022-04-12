@@ -1,0 +1,2 @@
+C:\Users\WIN10\source\repos\FifteenPuzzle\x64\Debug\FifteenPuzzle.exe
+C:\Users\WIN10\source\repos\FifteenPuzzle - 복사본\x64\Debug\FifteenPuzzle.exe

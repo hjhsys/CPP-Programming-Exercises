@@ -1,0 +1,18 @@
+﻿  FifteenPuzzle.cpp
+C:\Users\WIN10\source\repos\FifteenPuzzle - 복사본\FifteenPuzzle.cpp(60,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\WIN10\source\repos\FifteenPuzzle - 복사본\FifteenPuzzle.cpp(200,19): warning C4244: '=': 'double'에서 'clock_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\WIN10\source\repos\FifteenPuzzle - 복사본\FifteenPuzzle.cpp(237,6): warning C4101: 'input' :참조되지 않은 지역 변수입니다.
+  FifteenPuzzle3X3.cpp
+C:\Users\WIN10\source\repos\FifteenPuzzle - 복사본\FifteenPuzzle3X3.cpp(60,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\WIN10\source\repos\FifteenPuzzle - 복사본\FifteenPuzzle3X3.cpp(200,19): warning C4244: '=': 'double'에서 'clock_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\WIN10\source\repos\FifteenPuzzle - 복사본\FifteenPuzzle3X3.cpp(237,6): warning C4101: 'input' :참조되지 않은 지역 변수입니다.
+  FifteenPuzzle4X4Art.cpp
+C:\Users\WIN10\source\repos\FifteenPuzzle - 복사본\FifteenPuzzle4X4Art.cpp(60,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\WIN10\source\repos\FifteenPuzzle - 복사본\FifteenPuzzle4X4Art.cpp(312,19): warning C4244: '=': 'double'에서 'clock_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\WIN10\source\repos\FifteenPuzzle - 복사본\FifteenPuzzle4X4Art.cpp(349,6): warning C4101: 'input' :참조되지 않은 지역 변수입니다.
+  FifteenPuzzle5X5.cpp
+C:\Users\WIN10\source\repos\FifteenPuzzle - 복사본\FifteenPuzzle5X5.cpp(60,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\WIN10\source\repos\FifteenPuzzle - 복사본\FifteenPuzzle5X5.cpp(200,19): warning C4244: '=': 'double'에서 'clock_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\WIN10\source\repos\FifteenPuzzle - 복사본\FifteenPuzzle5X5.cpp(237,6): warning C4101: 'input' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  FifteenPuzzle.vcxproj -> C:\Users\WIN10\source\repos\FifteenPuzzle - 복사본\x64\Debug\FifteenPuzzle.exe
