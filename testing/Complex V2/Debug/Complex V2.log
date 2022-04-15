@@ -1,0 +1,5 @@
+﻿  Complex.cpp
+  ComplexTest.cpp
+C:\Users\p3302\source\repos\Complex V2\ComplexTest.cpp(3,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  코드를 생성하고 있습니다...
+  Complex V2.vcxproj -> C:\Users\p3302\source\repos\Complex V2\Debug\Complex V2.exe
