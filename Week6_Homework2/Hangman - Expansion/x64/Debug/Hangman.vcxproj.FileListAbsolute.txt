@@ -1,0 +1,2 @@
+C:\Users\WIN10\source\repos\Hangman\x64\Debug\Hangman.exe
+C:\Users\WIN10\source\repos\Hangman - 복사본\x64\Debug\Hangman.exe

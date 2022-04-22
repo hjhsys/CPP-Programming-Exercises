@@ -1,0 +1,13 @@
+12
+add 더하다
+minus 빼다
+fish 물고기
+port 항구
+boat 배
+beach 해변
+warship 전함
+shellfish 조개
+turtle 거북
+island 섬
+ocean 바다
+dolphin 돌고래
