@@ -1,0 +1,3 @@
+﻿  MonsterWorldGame.cpp
+C:\Users\WIN10\source\repos\MonsterWorld 2\MonsterWorldGame.cpp(4,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  MonsterWorld 2.vcxproj -> C:\Users\WIN10\source\repos\MonsterWorld 2\x64\Debug\MonsterWorld 2.exe
