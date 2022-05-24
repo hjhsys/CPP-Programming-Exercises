@@ -1,0 +1,3 @@
+C:\Users\WIN10\source\repos\MonsterWorld 3\x64\Debug\MonsterWorld 3.exe
+C:\Users\WIN10\source\repos\MonsterWorld 4\x64\Debug\MonsterWorld 4.exe
+C:\Users\WIN10\source\repos\MonsterWorld 5\x64\Debug\MonsterWorld 5.exe
